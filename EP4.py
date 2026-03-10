@@ -16,6 +16,6 @@ for title in titles:
     link = title.get("href")
 
     if text and link:
-        print(f"Title:{text},Link:{link}")
+        print(f"Title:{text} Link:{link}")
 
 
